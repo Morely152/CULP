@@ -1,4 +1,4 @@
-# 历史记录
+# 仓库简介
 - 这个仓库内的文件是我之前写的代码(Codes used to learn programing，CULP)，用于学习Python和C语言
     - 其中有部分文件是对一些经典情景或者现实问题进行模拟，比如：
         - BMI Calculator.py：用来计算BMI指数
